@@ -15,7 +15,7 @@
     "python.analysis.autoImportCompletions": true,
     "python.analysis.completeFunctionParens": true,
     "python.analysis.typeCheckingMode": "strict",
-    "python.analysis.diagnosticMode": "workspace",
+    "python.analysis.diagnosticMode": "openFilesOnly",
     "python.envFile": "${workspaceFolder}/.envscode",
     "terminal.integrated.env.windows": {
         "PYTHONPATH": "${workspaceFolder}/src"
